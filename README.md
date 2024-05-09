@@ -13,8 +13,8 @@ vitorlaurentino@gmail.com
 José Luccas <br>
 ...@gmail.com 
 
-Gustavo <br>
-...@gmail.com 
+Gustavo Carriel<br>
+gucarriel@hotmail.com
 
 Ariel <br>
 ...@gmail.com 
