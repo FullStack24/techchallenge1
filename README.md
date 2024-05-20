@@ -89,11 +89,11 @@ Esta aplicação de blogging dinâmico foi desenvolvida na plataforma OutSystems
 
 ---
 
-## Instruções para Clonar e Configurar o Projeto
+## Instruções para Clonar o Projeto
 
-1. Clone este repositório:
+1. Faça a operação 'Clone' deste repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone git@github.com:FullStack24/techchallenge1.git
 
 ---
 
