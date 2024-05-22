@@ -89,11 +89,30 @@ Esta aplicação de blogging dinâmico foi desenvolvida na plataforma OutSystems
 
 ---
 
-## Instruções para Clonar o Projeto
+## Instruções para Acessar e Rodar o Projeto
 
-1. Faça a operação 'Clone' deste repositório:
-   ```bash
-   git clone git@github.com:FullStack24/techchallenge1.git
+1. **Acesse a Plataforma OutSystems**
+   - Vá para a [OutSystems](https://www.outsystems.com/).
+
+2. **Download do Ambiente de Desenvolvimento**
+   - Após fazer o login na sua conta, faça o download e acesse o ambiente de desenvolvimento da OutSystems, conhecido como Service Studio.
+
+3. **Faça Login**
+   - Após fazer o download do ambiente de desenvolvimnto, utilize o login e senha fornecidos pela equipe para acessar a conta onde o projeto está hospedado:
+   - E-mail: fiapgrupo24full@gmail.com
+   - Senha: joaomariajose
+
+4. **Abra o Projeto**
+   - No Service Studio, abra o projeto de blogging dinâmico.
+   - Se o projeto não estiver visível na lista de projetos recentes, utilize a função de busca para encontrá-lo.
+
+5. **Publicar o Projeto**
+   - Com o projeto aberto, clique no botão de `1-Click Publish` para publicar a aplicação no ambiente de desenvolvimento.
+
+6. **Executar a Aplicação**
+   - Após a publicação, uma página web será aberta automaticamente pelo Service Studio e irá executar a aplicação em seu navegador.
+   - Verifique se todas as funcionalidades estão operacionais conforme descritas na documentação.
+
 
 ---
 
