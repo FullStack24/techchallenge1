@@ -1,6 +1,6 @@
 ## Grupo 24 - Pós Tech - FIAP
 
-# Aplicação de Blogging Dinâmico
+# Aplicação de Blogging Dinâmico: Minha Sala Virtual
 
 ## Visão Geral
 
@@ -114,4 +114,4 @@ Gustavo Carriel<br>
 gucarriel@hotmail.com
 
 Ariel - 355696 <br>
-...@gmail.com 
+arielandrielli100@gmail.com 
