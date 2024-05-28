@@ -128,7 +128,7 @@ Vitor Laurentino - RM 354411 <br>
 vitorlaurentino@gmail.com 
 
 José Luccas <br>
-...@gmail.com 
+jluccasgabriel@gmail.com 
 
 Gustavo Carriel<br>
 gucarriel@hotmail.com
