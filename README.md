@@ -109,16 +109,24 @@ Esta aplicação de blogging dinâmico foi desenvolvida na plataforma OutSystems
 5. **Publicar o Projeto**
    - Com o projeto aberto, clique no botão de `Publish` para publicar a aplicação no ambiente de desenvolvimento.
 
-6. **Executar a Aplicação**
+6. **Executar a Aplicação** ([Clique aqui e acesse a página do projeto](https://personal-9w2qzvyl.outsystemscloud.com/MinhaSala/?_ts=638525250252332900))
    - Após a publicação, uma página web será aberta automaticamente. A página aberta mostrará os posts existentes, porém não haverá nenhum usuário logado.
-   - No canto superior direito, haverá uma opção de login. Ao clicar, utilize as credenciais "Usuário: A1234 | Senha: Gustavo123" para acessar como aluno, ou "Usuário: P5678 | Senha: Gustavo123" para acessar como docente.
+   - No canto superior direito, haverá uma opção de login. Ao clicar, utilize as credenciais:
+      -  Login aluno:
+         -  Usuário: A1234.
+         -  Senha: Gustavo123.
+      -  Login professor:
+         -  Usuário: P5678.
+         -  Senha: Gustavo123.
    - Verifique se todas as funcionalidades estão operacionais conforme descritas na documentação.
-
-
----
-
-### Figma
-https://www.figma.com/files/project/232236477/Team-project?fuid=1162739126089040030
+6. **Entregável**
+   - Aluno:
+      - Os alunos e alunas devem poder ler um post específico ao clicar sobre o título ou conteúdo.
+   - Professor:
+      - Deve poder criar postagens.
+      - Edição de postagens existentes.
+      - Listagem de todas as postagens criadas.
+      - Exclusão de postagens.
 
 ---
 
