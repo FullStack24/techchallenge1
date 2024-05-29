@@ -6,6 +6,9 @@
 
 https://www.youtube.com/watch?v=Pm4fApXZ1mk
 
+## Link deste arquivo no github
+https://github.com/FullStack24/techchallenge1/blob/main/README.md
+
 ## Visão Geral
 
 Esta aplicação de blogging dinâmico foi desenvolvida na plataforma OutSystems para permitir que professores e professoras da rede pública de educação postem suas aulas e transmitam conhecimento de maneira prática, centralizada e tecnológica. A aplicação possui funcionalidades específicas para alunos e alunas (visualização e leitura de posts) e uma visão administrativa para docentes (gerenciamento de postagens).
