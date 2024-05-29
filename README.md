@@ -2,6 +2,10 @@
 
 # Aplicação de Blogging Dinâmico: Minha Sala Virtual
 
+## Video apresentação:
+
+https://www.youtube.com/watch?v=Pm4fApXZ1mk
+
 ## Visão Geral
 
 Esta aplicação de blogging dinâmico foi desenvolvida na plataforma OutSystems para permitir que professores e professoras da rede pública de educação postem suas aulas e transmitam conhecimento de maneira prática, centralizada e tecnológica. A aplicação possui funcionalidades específicas para alunos e alunas (visualização e leitura de posts) e uma visão administrativa para docentes (gerenciamento de postagens).
@@ -141,5 +145,5 @@ jluccasgabriel@gmail.com
 Gustavo Carriel<br>
 gucarriel@hotmail.com
 
-Ariel - 355696 <br>
+Ariel Andrielli - 355696 <br>
 arielandrielli100@gmail.com 
